@@ -3,7 +3,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .middle{
-        height: 350px;
+        height: 400px;
         background-image: url(image/surf.jpg);
         background-position: center;
         background-repeat: no-repeat;
@@ -19,7 +19,7 @@ body{
 }
 
 .Title-middle{
-    padding-top: 30px;
+    padding-top: 60px;
     padding-bottom: 20px;
 }
 
